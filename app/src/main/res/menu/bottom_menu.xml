@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_lstVendeur"
+        android:icon="@drawable/list"
+        android:title="@string/title_lstVendeur" />
+
+    <item
+        android:id="@+id/navigation_lstClient"
+        android:icon="@drawable/cart"
+        android:title="@string/title_lstClient" />
+</menu>

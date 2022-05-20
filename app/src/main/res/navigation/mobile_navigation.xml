@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_lstVendeur">
+
+    <fragment
+        android:id="@+id/navigation_lstVendeur"
+        android:name="ca.cegepgarneau.tp4_2021_ab.listeVendeur.ListeVendeurFragment"
+        android:label="@string/title_lstVendeur"
+        tools:layout="@layout/fragment_liste_vendeur" />
+
+    <fragment
+        android:id="@+id/navigation_lstClient"
+        android:name="ca.cegepgarneau.tp4_2021_ab.listeClient.ListeClientFragment"
+        android:label="@string/title_lstClient"
+        tools:layout="@layout/fragment_liste_client" />
+
+</navigation>

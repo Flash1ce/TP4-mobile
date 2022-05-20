@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775767631375",
+    "project_id": "mobile-2021-b873c",
+    "storage_bucket": "mobile-2021-b873c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775767631375:android:cedf415000695e4beaa57a",
+        "android_client_info": {
+          "package_name": "ca.cegepgarneau.tp4_2021_ab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775767631375-ifrf2er652c279sm3pah0337qn7envnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBRJ2LiCvJxr9qBGkjvsSvoo-7-X9b2Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775767631375-ifrf2er652c279sm3pah0337qn7envnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
